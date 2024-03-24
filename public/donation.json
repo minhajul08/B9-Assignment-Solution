@@ -1,0 +1,222 @@
+[
+    {
+      "id": "1",
+      "category": "Computer",
+      "categoryBg": "#3498db",
+      "title": "Laptop",
+      "description": "Powerful laptop for work and entertainment.",
+      "image": "https://i.ibb.co/4F751Tq/ben-white-4-K2l-IP0zc-k-unsplash.jpg",
+      "price": "$999.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#e6e6e6"
+    },
+    {
+      "id": "2",
+      "category": "Computer",
+      "categoryBg": "#3498db",
+      "title": "Desktop Computer",
+      "description": "High-performance desktop computer for gaming and productivity.",
+      "image": "https://i.ibb.co/v1rh15t/christin-hume-mf-B1-B1s4s-Mc-unsplash.jpg",
+      "price": "$1499.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#f0e68c"
+    },
+    {
+      "id": "3",
+      "category": "Computer",
+      "categoryBg": "#3498db",
+      "title": "Tablet",
+      "description": "Versatile tablet for productivity and entertainment on the go.",
+      "image": "https://i.ibb.co/s3gTk72/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+      "price": "$399.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#d3d3d3"
+    },
+    {
+      "id": "4",
+      "category": "Computer",
+      "categoryBg": "#3498db",
+      "title": "Gaming Mouse",
+      "description": "Highly responsive gaming mouse for precise control.",
+      "image": "https://i.ibb.co/VYtsPpX/domenico-loia-h-GV2-Tf-Oh0ns-unsplash.jpg",
+      "price": "$79.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#ffe4e1"
+    },
+    {
+      "id": "5",
+      "category": "Computer",
+      "categoryBg": "#3498db",
+      "title": "External Hard Drive",
+      "description": "Portable external hard drive for storing your data.",
+      "image": "https://i.ibb.co/0Y26PbB/kari-shea-1-SAnr-Ixw5-OY-unsplash.jpg",
+      "price": "$129.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#f5f5dc"
+    },
+    {
+      "id": "6",
+      "category": "Books",
+      "categoryBg": "#e74c3c",
+      "title": "Fantasy Novel",
+      "description": "Exciting fantasy novel filled with adventure and magic.",
+      "image": "https://i.ibb.co/sHg3rQq/annelies-geneyn-bh-BONc07-Ws-I-unsplash.jpg",
+      "price": "$12.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#f0ffff"
+    },
+    {
+      "id": "7",
+      "category": "Books",
+      "categoryBg": "#e74c3c",
+      "title": "Science Fiction Book",
+      "description": "Engaging science fiction book set in a distant future.",
+      "image": "https://i.ibb.co/qpMDc7H/blaz-photo-z-MRLZh40kms-unsplash.jpg",
+      "price": "$14.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#d3d3d3"
+    },
+    {
+      "id": "8",
+      "category": "Books",
+      "categoryBg": "#e74c3c",
+      "title": "Cookbook",
+      "description": "Collection of delicious recipes from around the world.",
+      "image": "https://i.ibb.co/NNLYHGK/dollar-gill-0-V7-N62z-Zc-U-unsplash.jpg",
+      "price": "$19.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#faf0e6"
+    },
+    {
+      "id": "9",
+      "category": "Books",
+      "categoryBg": "#e74c3c",
+      "title": "Mystery Novel",
+      "description": "Intriguing mystery novel with unexpected twists.",
+      "image": "https://i.ibb.co/pRvFJgk/elisa-calvet-b-S3n-UOq-Dm-Uvc-unsplash.jpg",
+      "price": "$16.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#ffff00"
+    },
+    {
+      "id": "10",
+      "category": "Books",
+      "categoryBg": "#e74c3c",
+      "title": "Biography",
+      "description": "Inspiring biography of a remarkable individual.",
+      "image": "https://i.ibb.co/9qDmkLC/sincerely-media-n-Grf-Kmtwv24-unsplash.jpg",
+      "price": "$21.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#d3d3d3"
+    },
+    {
+      "id": "11",
+      "category": "Food",
+      "categoryBg": "#f1c40f",
+      "title": "Chocolate Bar",
+      "description": "Delicious milk chocolate bar for indulgent snacking.",
+      "image": "https://i.ibb.co/PxGqp3m/anna-pelzer-IGf-IGP5-ONV0-unsplash.jpg",
+      "price": "$2.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#ffefd5"
+    },
+    {
+      "id": "12",
+      "category": "Food",
+      "categoryBg": "#f1c40f",
+      "title": "Organic Pasta",
+      "description": "High-quality organic pasta for a wholesome meal.",
+      "image": "https://i.ibb.co/C2KcVfP/brooke-lark-Hl-Ncigv-Ui4-Q-unsplash.jpg",
+      "price": "$4.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#d3d3d3"
+    },
+    {
+      "id": "13",
+      "category": "Food",
+      "categoryBg": "#f1c40f",
+      "title": "Fresh Fruits Basket",
+      "description": "Assortment of fresh fruits for a nutritious snack.",
+      "image": "https://i.ibb.co/t4DGHdw/eaters-collective-12e-HC6-Fx-Pyg-unsplash.jpg",
+      "price": "$9.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#f0e68c"
+    },
+    {
+      "id": "14",
+      "category": "Food",
+      "categoryBg": "#f1c40f",
+      "title": "Gourmet Cheese Selection",
+      "description": "Exquisite gourmet cheese selection for cheese lovers.",
+      "image": "https://i.ibb.co/GTFq5Ww/jimmy-dean-Yn0l7uw-Brpw-unsplash.jpg",
+      "price": "$12.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#fff5ee"
+    },
+    {
+      "id": "15",
+      "category": "Food",
+      "categoryBg": "#f1c40f",
+      "title": "Healthy Snack Bars",
+      "description": "Nutritious snack bars packed with wholesome ingredients.",
+      "image": "https://i.ibb.co/bshgYrm/lily-banse-YHSwy6uqvk-unsplash.jpg",
+      "price": "$6.99",
+      "textColor": "#ffffff",
+      "cardBgColor": "#d3d3d3"
+    },
+    {
+        "id": "16",
+        "category": "Clothing",
+        "categoryBg": "#2ecc71",
+        "title": "Men's Jacket",
+        "description": "Stylish jacket for men suitable for all occasions.",
+        "image": "https://i.ibb.co/XSDQj9J/mnz-To-LMORRb97-Q-unsplash.jpg",
+        "price": "$79.99",
+        "textColor": "#ffffff",
+        "cardBgColor": "#f0e68c"
+      },
+      {
+        "id": "17",
+        "category": "Clothing",
+        "categoryBg": "#2ecc71",
+        "title": "Women's Dress",
+        "description": "Elegant dress for women suitable for special occasions.",
+        "image": "https://i.ibb.co/RBYkK1b/keagan-henman-Won79-9o-UEk-unsplash.jpg",
+        "price": "$129.99",
+        "textColor": "#ffffff",
+        "cardBgColor": "#d3d3d3"
+      },
+      {
+        "id": "18",
+        "category": "Clothing",
+        "categoryBg": "#2ecc71",
+        "title": "T-Shirt",
+        "description": "Comfortable and stylish t-shirt for everyday wear.",
+        "image": "https://i.ibb.co/Fn3F2sJ/lan-deng-quddu-d-ZKk-Q-unsplash.jpg",
+        "price": "$29.99",
+        "textColor": "#ffffff",
+        "cardBgColor": "#faf0e6"
+      },
+      {
+        "id": "19",
+        "category": "Clothing",
+        "categoryBg": "#2ecc71",
+        "title": "Jeans",
+        "description": "Classic pair of jeans for a timeless look.",
+        "image": "https://i.ibb.co/x7rxY9m/parker-burchfield-tv-G4-Wvjgs-EY-unsplash.jpg",
+        "price": "$59.99",
+        "textColor": "#ffffff",
+        "cardBgColor": "#ffff00"
+      },
+      {
+        "id": "20",
+        "category": "Clothing",
+        "categoryBg": "#2ecc71",
+        "title": "Sweater",
+        "description": "Warm and cozy sweater for chilly days.",
+        "image": "https://i.ibb.co/zZqDLqp/angela-bailey-jlo7-Bf4t-Uo-Y-unsplash.jpg",
+        "price": "$49.99",
+        "textColor": "#ffffff",
+        "cardBgColor": "#d3d3d3"
+      }
+  ]
